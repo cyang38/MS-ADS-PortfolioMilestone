@@ -10,17 +10,17 @@ This repository is the Graduation Portfolio Milestone for my master's degree of 
   - The resume is updated on February 2020.
 
 ### 3. Academic Projects
-  * A). **San Francisco Crime Analysis** 
+  * A) **San Francisco Crime Analysis** 
     - This is the poster created in Information Visualization course using programming language, R, and illustrator graphic tool.
-  * B). **San Francisco Crime instance resolution prediction** 
+  * B) **San Francisco Crime instance resolution prediction** 
     - This projects focuses on whether a crime instance could be resolved based on the location, time, type of crime instance. The tools used to perform the analysis are Python, PySpark, and classification machine learning algorithms.
-  * C). **Airline Satisfaction Analysis**
+  * C) **Airline Satisfaction Analysis**
     - This project was to find out the possible factors to drive the overall customers' satisfaction score using R and other machine learning algorithms.
-  * D). **Drug Review Analysis**
+  * D) **Drug Review Analysis**
     - The project was to analyze reviews regarding various drugs on pharmaceutical site. Topic modeling, wordcloud, and other NLP techniques were used to finish the project.
-  * E). **News Article Text mining**
+  * E) **News Article Text mining**
     - The project was to analyze news articles in different publishers and whether you can classify different topics using LDA topic modeling.
-  * F). **Data Warehousing Project**
+  * F) **Data Warehousing Project**
     - This project was to build data warehouse from relational database and cubes to further create Business Intelligence reporting.
 
 
