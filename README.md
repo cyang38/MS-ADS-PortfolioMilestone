@@ -10,17 +10,17 @@ This repository is the Graduation Portfolio Milestone for my master's degree of 
   - The resume is updated on February 2020.
 
 ### 3. Academic Projects
-  * A) **San Francisco Crime Analysis** 
+  * A) **San Francisco Crime Analysis** (name in Github: IST719_Poster_v4_0214201.pdf)
     - This is the poster created in Information Visualization course using programming language, R, and illustrator graphic tool.
-  * B) **San Francisco Crime instance resolution prediction** 
+  * B) **San Francisco Crime instance resolution prediction** (name in Github: SF_Crime_Analysis-master)
     - This projects focuses on whether a crime instance could be resolved based on the location, time, type of crime instance. The tools used to perform the analysis are Python, PySpark, and classification machine learning algorithms.
-  * C) **Airline Satisfaction Analysis**
+  * C) **Airline Satisfaction Analysis** (name in Github: Airline-satisfaction-analysis-master)
     - This project was to find out the possible factors to drive the overall customers' satisfaction score using R and other machine learning algorithms.
-  * D) **Drug Review Analysis**
+  * D) **Drug Review Analysis** (name in Github: Drug-review-master)
     - The project was to analyze reviews regarding various drugs on pharmaceutical site. Topic modeling, wordcloud, and other NLP techniques were used to finish the project.
-  * E) **News Article Text mining**
+  * E) **News Article Text mining** (name in Github: News-Article-Text-Mining-master)
     - The project was to analyze news articles in different publishers and whether you can classify different topics using LDA topic modeling.
-  * F) **Data Warehousing Project**
+  * F) **Data Warehousing Project** (name in Github: IST722_Deliverables_Team1)
     - This project was to build data warehouse from relational database and cubes to further create Business Intelligence reporting.
 
 
@@ -30,3 +30,4 @@ This repository is the Graduation Portfolio Milestone for my master's degree of 
 * SUID: 638291989
 * Email: cyang38@syr.edu
 * Program: M.S. in Applied Data Science at Syracuse University
+* LinkedIn: https://www.linkedin.com/in/joy-yang11/
