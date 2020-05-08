@@ -3,10 +3,10 @@ This repository is the Graduation Portfolio Milestone for my master's degree of 
 
 ## Table of Content
 
-### 1. Paper: ["How data science master program has cultivated me?"] (./MS-ADS Portfolio Milestone_ChiauYinYang.pdf)
+### 1. Paper: ["How data science master program has cultivated me?"](./MS-ADS Portfolio Milestone_ChiauYinYang.pdf)
   - This paper is basically a summary of what I have learned during the 2 years in the master's program of Applied Data Science - the knowledge and critical thinkings regarding data science, and the technical skills that are required to succeed in this field.
 
-### 2. [Resume] (./Resume_chiauyinyang_021420.pdf)
+### 2. [Resume](./Resume_chiauyinyang_021420.pdf)
   - The resume is updated on February 2020.
 
 ### 3. Academic Projects
